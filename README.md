@@ -50,7 +50,7 @@ self-hosted network dashboards.
 <br/><b>Offset Coffee</b>
 <br/>Bilingual coffee-house brand experience — EN/AR RTL, self-hosted fonts, full brand kit from logo to menu & merch data.
 <br/>
-<a href="https://github.com/a7medd7arbb2662/offset-coffee">Repo</a>
+<span>Brand & UI project</span>
 </td>
 </tr>
 </table>
