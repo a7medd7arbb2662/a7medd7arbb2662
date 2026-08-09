@@ -63,6 +63,8 @@ self-hosted network dashboards.
 | 🧮 Calculator | Clean, responsive calculator | [Repo](https://github.com/a7medd7arbb2662/calculator-ahmedharb) · [Live](https://calculator-ahmedharb.vercel.app) |
 | 💸 expense.tracker | Early Finora prototype | [Repo](https://github.com/a7medd7arbb2662/expense.tracker-ahmedharb) · [Live](https://expense-tracker-ahmedharb.vercel.app) |
 
+<!-- profile-readme:v2 -->
+
 ---
 
 ## 📊 GitHub Stats
