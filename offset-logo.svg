@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 160" fill="none">
+  <g>
+    <rect x="12" y="32" width="96" height="96" rx="20" fill="#0d0b09"/>
+    <circle cx="60" cy="80" r="30" stroke="#f4ede3" stroke-width="6.4"/>
+    <circle cx="60" cy="80" r="14.4" stroke="#f4ede3" stroke-width="6.4"/>
+    <path d="M84 46 L36 114" stroke="#f97316" stroke-width="9.2" stroke-linecap="round"/>
+    <circle cx="84" cy="46" r="6" fill="#f97316"/>
+  </g>
+  <text x="140" y="112" font-size="76" font-weight="700" letter-spacing="2" font-family="Clash Display, Inter, Arial, sans-serif" fill="#0d0b09">OFFSET<tspan fill="#f97316">.</tspan></text>
+</svg>
